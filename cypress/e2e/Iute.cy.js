@@ -1,4 +1,4 @@
-describe("template spec", () => {
+describe("Automated test for Iute", () => {
   it("Should search Google and display 5 celebrities born today on IMDb", () => {
     cy.visit("https://www.google.com/");
 
